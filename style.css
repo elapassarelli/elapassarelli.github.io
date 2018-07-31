@@ -3,7 +3,7 @@ h1 {
   border-color: blue;
 }
 
-headerOne {
-  color: yellow;
+.headerOne {
+  border-width: 10px;
   
 }
